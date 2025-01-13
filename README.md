@@ -1,8 +1,10 @@
 NetFlix- GPT 
 
-Step 1 -> Run comand in terminal - creat-react-app appname
-
-step 2 -> configure the taillwind in our app 
+- Run comand in terminal - creat-react-app appname
+- configure the taillwind in our app 
+- Make Header
+- Sign IN form
+- Sign UP form
 
 Fetures
     -Logim/logout page
